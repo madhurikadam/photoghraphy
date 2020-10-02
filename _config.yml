@@ -1,0 +1,21 @@
+# Base configs
+baseurl: "https://photography.madhurikadam.com"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Photography by Madhuri Kadam"
+subtitle: "See the world through my eyes!"
+author: "Madhuri Kadam"
+header:
+ title: "Photography"
+ subtitle: "by Madhuri Kadam"
+footer:
+ name: "Hey there, my name is Madhuri"
+ bio: "I am a developerfrom India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
+web_design: "AJ"
+social_urls:
+  facebook: "https://www.facebook.com/madhuri.kadam.7946"
+  instagram: "https://www.instagram.com/itsmaddsphotoghraphys"
+  github: "https://www.github.com/madhurikadam"
